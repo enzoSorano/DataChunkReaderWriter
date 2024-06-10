@@ -6,4 +6,4 @@ To specify a range for the number of Byte, short, and long chunks open the file 
 
 The Assembly program then calculates statistics for each section, including the number of data pieces in each chunk and their average values. The results are written to an output statistics file. The expected output displays the section number, the counts, and the average values for bytes, shorts, and longs.
 
-#Running The Program
+## Running The Program
